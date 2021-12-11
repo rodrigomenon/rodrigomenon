@@ -20,7 +20,6 @@ I'm currently working on [projects](https://github.com/rodrigomenon?tab=reposito
 <h4>Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
   </p>
 
 <h4>Packages</h4>
